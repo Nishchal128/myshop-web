@@ -1,4 +1,4 @@
-# E-commerce Project
+# Project Overview
 
 This project consists of three main components:
 
