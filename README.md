@@ -55,6 +55,13 @@ To run the project, use `node index.js` in the Integrated Terminal.
 6. Type `npm start` in the terminal.
 7. The project will start in your default web browser.
 
+### Deployment Links:
+
+[ADMIN Panel](https://project-flipr-task-j6uu.vercel.app/)
+[Front-end](https://project-flipr-task.vercel.app/)
+
+Backend deployed on Render.
+
 ## Project By
 
 **Nishchal Vyas**  
