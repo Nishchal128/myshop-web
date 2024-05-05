@@ -57,8 +57,8 @@ To run the project, use `node index.js` in the Integrated Terminal.
 
 ### Deployment Links:
 
-[ADMIN Panel](https://project-flipr-task-j6uu.vercel.app/)
-[Front-end](https://project-flipr-task.vercel.app/)
+1. [ADMIN Panel](https://project-flipr-task-j6uu.vercel.app/)
+2. [Front-end](https://project-flipr-task.vercel.app/)
 
 Backend deployed on Render.
 
